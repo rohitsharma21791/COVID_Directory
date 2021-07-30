@@ -1,4 +1,4 @@
-Model1 selected is basic CNN model with Batch normalization and Maxpool layers.
+Model selected is a basic CNN model with Batch normalization and Maxpool layers.
 Dataset consists of Covid19 and abnormal heart beat from ECG modality.
 20% of total data is used for testing and 20% of training data is used for validation purpose.
 There is no data augmentation technique is used and total 25 appoaches has been used.
